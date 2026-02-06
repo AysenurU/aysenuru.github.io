@@ -1,8 +1,6 @@
-# Hi, I'm Aysenur 👋
+# Welcome 👋
 
-I'm an aspiring **Data Analyst / Analytics Engineer** focused on
-designing clean data models, building analytics-ready datasets,
-and turning raw data into meaningful business insights using SQL.
+I'm an aspiring **Data Analyst / Analytics Engineer** focused on designing analytics-ready data models and SQL-based data warehouses, with a focus on clarity, data quality, and business usability.
 
 ### What I do
 - Design Data Warehouses using Bronze–Silver–Gold architecture
