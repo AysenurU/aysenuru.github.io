@@ -1,17 +1,11 @@
-# Projects
+## Projects
 
-## Sales Data Warehouse – SQL Server
-End-to-end Data Warehouse project integrating CRM and ERP data using Bronze–Silver–Gold architecture.
+### Sales Analytics Data Warehouse
+End-to-end SQL Server data warehouse project using Bronze–Silver–Gold architecture.
 
-**Highlights**
-- Star schema data model
-- Analytics views for sales and customer insights
-- Strong focus on data quality and consistency
-
-**What I learned**
-- Designing a scalable Bronze–Silver–Gold architecture
-- Translating business questions into analytics views
-- Enforcing data quality before analytics consumption
+- Star schema data modeling
+- Analytics views for business KPIs
+- Strong data quality and documentation
 
 🔗 [GitHub Repository](https://github.com/AysenurU/sql-data-warehouse-project)
 
