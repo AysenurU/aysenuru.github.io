@@ -1,3 +1,5 @@
+# Projects
+
 ## Sales Data Warehouse – SQL Server
 End-to-end Data Warehouse project integrating CRM and ERP data using Bronze–Silver–Gold architecture.
 
@@ -11,7 +13,7 @@ End-to-end Data Warehouse project integrating CRM and ERP data using Bronze–Si
 - Translating business questions into analytics views
 - Enforcing data quality before analytics consumption
 
-🔗 [GitHub Repository](https://github.com/aysenuru/data-warehouse-project)
+🔗 [GitHub Repository](https://github.com/AysenurU/sql-data-warehouse-project)
 
 ---
 
