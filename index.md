@@ -8,6 +8,9 @@ and turning raw data into meaningful business insights using SQL.
 - Create business-focused analytics views
 - Apply data quality and validation best practices
 
+### My Approach
+I focus on building analytics solutions that are cleanly modeled, well-documented, and aligned with real business questions.
+
 ### Core Skills
 - SQL (T-SQL)
 - Data Warehousing
