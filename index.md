@@ -1,5 +1,3 @@
-# Hi, I'm Aysenur 👋
-
 I'm an aspiring **Data Analyst / Analytics Engineer** focused on
 designing clean data models, building analytics-ready datasets,
 and turning raw data into meaningful business insights using SQL.
