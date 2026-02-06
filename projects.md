@@ -3,21 +3,30 @@ layout: page
 title: Projects
 ---
 
-### Sales Analytics Data Warehouse
-End-to-end SQL Server data warehouse project using Bronze–Silver–Gold architecture.
+## Sales Analytics Data Warehouse
 
-- Star schema data modeling
-- Analytics views for business KPIs
-- Strong data quality and documentation
+End-to-end **SQL Server Data Warehouse** project designed to simulate a real-world analytics environment.
 
-🔗 [GitHub Repository](https://github.com/AysenurU/sql-data-warehouse-project)
+**Key contributions:**
+- Designed a **Bronze–Silver–Gold architecture** from scratch
+- Modeled a **Star Schema** optimized for analytical queries
+- Built reusable **analytics views** for KPIs and reporting
+- Applied **data quality checks** (deduplication, validation, integrity)
+- Documented business logic and analytical assumptions clearly
+
+**Business value:**
+- Enables consistent sales and customer analytics
+- Provides a single source of truth for reporting
+- Demonstrates production-style analytics engineering practices
+
+🔗 [View GitHub Repository](https://github.com/AysenurU/sql-data-warehouse-project)
 
 ---
 
 ## Customer Analytics (In Progress)
-Customer behavior and RFM-style analytics project.
+Customer behavior analysis focusing on segmentation and lifecycle metrics.
 
 ---
 
 ## SLA & Operational Analytics (Planned)
-Operational metrics and SLA monitoring use cases.
+Operational monitoring and SLA compliance analytics use cases.
