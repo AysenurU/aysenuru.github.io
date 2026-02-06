@@ -1,6 +1,3 @@
-
-# Projects
-
 ## Sales Data Warehouse – SQL Server
 End-to-end Data Warehouse project integrating CRM and ERP data using Bronze–Silver–Gold architecture.
 
