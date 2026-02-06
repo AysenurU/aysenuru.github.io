@@ -1,4 +1,7 @@
-## Projects
+---
+layout: page
+title: Projects
+---
 
 ### Sales Analytics Data Warehouse
 End-to-end SQL Server data warehouse project using Bronze–Silver–Gold architecture.
