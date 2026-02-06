@@ -9,6 +9,11 @@ End-to-end Data Warehouse project integrating CRM and ERP data using Bronze–Si
 - Analytics views for sales and customer insights
 - Strong focus on data quality and consistency
 
+**What I learned**
+- Designing a scalable Bronze–Silver–Gold architecture
+- Translating business questions into analytics views
+- Enforcing data quality before analytics consumption
+
 🔗 [GitHub Repository](https://github.com/aysenuru/data-warehouse-project)
 
 ---
