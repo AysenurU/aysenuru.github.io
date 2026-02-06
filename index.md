@@ -1,4 +1,4 @@
-# Welcome 👋
+Welcome 👋
 
 I'm an aspiring **Data Analyst / Analytics Engineer** focused on designing analytics-ready data models and SQL-based data warehouses, with a focus on clarity, data quality, and business usability.
 
