@@ -23,10 +23,8 @@ End-to-end **SQL Server Data Warehouse** project designed to simulate a real-wor
 
 ---
 
-## Customer Analytics (In Progress)
-Customer behavior analysis focusing on segmentation and lifecycle metrics.
+## End-to-End Retail Analytics (SQL)
 
----
+Designed an end-to-end SQL Data Warehouse using Bronze-Silver-Gold architecture to transform raw CRM & ERP data into analytics-ready datasets and KPI views. Integrated CRM & ERP source data and built metrics to support actionable business insights.
 
-## SLA & Operational Analytics (Planned)
-Operational monitoring and SLA compliance analytics use cases.
+🔗 [View GitHub Repository](https://github.com/AysenurU/end-to-end-retail-analytics-sql)
