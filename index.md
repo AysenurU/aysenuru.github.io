@@ -2,8 +2,7 @@
 layout: home
 ---
 
-## Hi, I'm **Aysenur Ucar** 👋
-
+### Aysenur Ucar 
 ### Analytics Engineer | Data Analyst
 I build **SQL-based data warehouses** and **analytics-ready datasets** that turn raw operational data into **trusted insights** for business decision-making.
 
