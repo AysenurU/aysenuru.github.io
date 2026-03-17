@@ -37,9 +37,9 @@ I build **SQL-based data warehouses** and **analytics-ready datasets** that turn
 - **SQL Data Warehouse** – End-to-end SQL Server project with Bronze–Silver–Gold architecture, reusable analytics views, and KPI dashboards.  
 - **Retail Analytics (SQL)** – Transform CRM & ERP raw data into analytics-ready datasets with KPIs for actionable insights.  
 
-👉 [View all projects](projects.html){: .button }
+👉 [View all projects](projects.html)
 
 ---
 
 ### Connect with Me
-[LinkedIn](https://linkedin.com/in/aysenur) | [GitHub](https://github.com/AysenurU) | [Email](mailto:aysenur@example.com)
+[LinkedIn](https://linkedin.com/in/aysenuru) | [GitHub](https://github.com/AysenurU) | [Email](mailto:ucaraysenur1998@gmail.com)
