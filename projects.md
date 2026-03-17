@@ -3,44 +3,108 @@ layout: page
 title: Projects
 ---
 
-## Sales Analytics Data Warehouse
+<style>
+/* Container for all cards */
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
 
-End-to-end **SQL Server Data Warehouse** project designed to simulate a real-world analytics environment.
+/* Individual card */
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 300px;
+  padding: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-**Key contributions:**
-- Designed a **Bronze–Silver–Gold architecture** from scratch
-- Modeled a **Star Schema** optimized for analytical queries
-- Built reusable **analytics views** for KPIs and reporting
-- Applied **data quality checks** (deduplication, validation, integrity)
-- Documented business logic and analytical assumptions clearly
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
 
-**Business value:**
-- Enables consistent sales and customer analytics
-- Provides a single source of truth for reporting
-- Demonstrates production-style analytics engineering practices
+/* Card image */
+.card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
 
-**Skills:** SQL, Data Warehousing, Star Schema, KPI Metrics, Analytics Engineering, Data Quality
+/* Card title */
+.card h3 {
+  margin: 0 0 10px 0;
+  font-size: 1.3rem;
+  text-align: center;
+}
 
-🔗 [View GitHub Repository](https://github.com/AysenurU/sql-data-warehouse-project)
+/* Card description */
+.card p {
+  font-size: 0.95rem;
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
 
----
+/* Skills / business value */
+.card p.skills {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 15px;
+}
 
-## End-to-End Retail Analytics (SQL)
+/* Button link */
+.card a {
+  text-decoration: none;
+  background-color: #007acc;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
 
-Designed an end-to-end SQL Data Warehouse using Bronze-Silver-Gold architecture to transform raw CRM & ERP data into analytics-ready datasets and KPI views. Integrated CRM & ERP source data and built metrics to support actionable business insights.
+.card a:hover {
+  background-color: #005fa3;
+}
 
-**Key contributions:**
-- Built end-to-end ETL pipeline from CRM & ERP sources
-- Modeled a **Star Schema** for retail analytics
-- Developed reusable **analytics views & KPI metrics**
-- Ensured **data quality** via validation, deduplication, and integrity checks
-- Documented all business logic and assumptions clearly
+/* Responsive */
+@media (max-width: 768px) {
+  .cards-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    width: 90%;
+  }
+}
+</style>
 
-**Business value:**
-- Provides a single source of truth for retail & CRM data
-- Supports actionable insights for decision-making
-- Demonstrates end-to-end analytics engineering best practices
+<div class="cards-container">
 
-**Skills:** SQL, Data Warehousing, Star Schema, KPI Metrics, CRM & ERP Integration, Analytics Engineering
+  <!-- Project 1 -->
+  <div class="card">
+    <img src="https://via.placeholder.com/300x180.png?text=SQL+Data+Warehouse" alt="Sales Analytics Data Warehouse">
+    <h3>Sales Analytics Data Warehouse</h3>
+    <p>End-to-end SQL Server Data Warehouse project simulating a real-world analytics environment.</p>
+    <p class="skills">Skills: SQL, Data Warehousing, Star Schema, KPI Metrics, Analytics Engineering, Data Quality</p>
+    <a href="https://github.com/AysenurU/sql-data-warehouse-project" target="_blank">View Project</a>
+  </div>
 
-🔗 [View GitHub Repository](https://github.com/AysenurU/end-to-end-retail-analytics-sql)
+  <!-- Project 2 -->
+  <div class="card">
+    <img src="https://via.placeholder.com/300x180.png?text=Retail+Analytics+SQL" alt="End-to-End Retail Analytics">
+    <h3>End-to-End Retail Analytics (SQL)</h3>
+    <p>SQL Data Warehouse using Bronze-Silver-Gold architecture to transform CRM & ERP data into analytics-ready datasets and KPI views.</p>
+    <p class="skills">Skills: SQL, Data Warehousing, Star Schema, KPI Metrics, CRM & ERP Integration, Analytics Engineering</p>
+    <a href="https://github.com/AysenurU/end-to-end-retail-analytics-sql" target="_blank">View Project</a>
+  </div>
+
+</div>
