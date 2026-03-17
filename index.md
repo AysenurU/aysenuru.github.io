@@ -32,5 +32,5 @@ I specialize in transforming raw operational data into **trusted, well-modeled a
 - Analytics Engineering
 - Data Quality & Validation
 
-👉 **[View my projects](projects.md)**
+👉 **[**View my projects**](projects.html){: .button }**
 
