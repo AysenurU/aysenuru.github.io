@@ -2,47 +2,44 @@
 layout: home
 ---
 
-<!-- Hero Section -->
 # Hi, I'm **Aysenur Ucar** 👋
-### Data Analyst & Analytics Engineer
-Transforming raw operational data into **trusted, well-modeled analytical layers** to answer real business questions and drive **data-driven decisions**.
+### Analytics Engineer | Data Analyst
+I build **SQL-based data warehouses** and **analytics-ready datasets** that turn raw operational data into **trusted insights** for business decision-making.
 
 ---
 
-<!-- Featured Projects -->
-### Featured Projects
-Here are a few highlights of my work in analytics and data engineering:
+### What I Build
+- End-to-end **SQL Data Warehouses** (Bronze–Silver–Gold architecture)
+- **Star Schema** data models for analytics
+- Business-focused **analytics views & KPIs**
+- Clean, documented, and reusable **SQL transformations**
 
-- **SQL Data Warehouse** – Built end-to-end Bronze-Silver-Gold architecture for sales data, creating **analytics-ready datasets and KPI views**.
-- **Retail Analytics (SQL)** – Transformed CRM & ERP data into actionable insights with **star schema modeling** and data quality checks.
+---
+
+### How I Work
+- Start from **business questions** and KPIs
+- Design **clear, maintainable data models**
+- Ensure **data quality, validation & integrity**
+- Deliver **analytics-ready datasets** for BI, dashboards, and reporting
+
+---
+
+### Core Skills
+- SQL (T-SQL) & ETL pipelines
+- Data Warehousing & Star Schema Modeling
+- Analytics Engineering & KPI Metrics
+- Data Quality, Validation & Documentation
+- CRM & ERP data integration
+
+---
+
+### Featured Projects
+- **SQL Data Warehouse** – End-to-end SQL Server project with Bronze–Silver–Gold architecture, reusable analytics views, and KPI dashboards.  
+- **Retail Analytics (SQL)** – Transform CRM & ERP raw data into analytics-ready datasets with KPIs for actionable insights.  
 
 👉 [View all projects](projects.html){: .button }
 
 ---
 
-<!-- Core Skills -->
-### Core Skills
-<div class="skills-grid">
-  <span class="skill-badge">SQL (T-SQL)</span>
-  <span class="skill-badge">Data Warehousing</span>
-  <span class="skill-badge">Star Schema Modeling</span>
-  <span class="skill-badge">Analytics Engineering</span>
-  <span class="skill-badge">Data Quality & Validation</span>
-  <span class="skill-badge">ETL & Data Pipelines</span>
-  <span class="skill-badge">CRM & ERP Integration</span>
-</div>
-
----
-
-<!-- How I Work -->
-### How I Work
-- Start with **business questions** and define KPIs.
-- Design **clear and maintainable data models**.
-- Enforce **data quality at the source**.
-- Deliver **analytics-ready datasets** for BI & reporting.
-
----
-
-<!-- Connect -->
----
-Connect with me: [LinkedIn](https://linkedin.com/in/aysenur) | [GitHub](https://github.com/AysenurU)
+### Connect with Me
+[LinkedIn](https://linkedin.com/in/aysenur) | [GitHub](https://github.com/AysenurU) | [Email](mailto:aysenur@example.com)
